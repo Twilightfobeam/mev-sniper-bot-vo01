@@ -1,4 +1,4 @@
-# 
+# elite MEV sniper bot | new-token-detection + private-RPC-nodes is the best MEV sniper bot, featuring new-token-detection and private-RPC-nodes. Fast, smart, and optimized for MEV
 
 
 
